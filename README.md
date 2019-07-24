@@ -1,6 +1,6 @@
 # ABOUT
 This is my first portfolio site that I am still working on!
 
-#TOOLS
+# TOOLS
 REACT
 SEMANTIC-UI
